@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">labo03 moviles</string>
+    <string name="money_amount_text">Cantidad de dinero</string>
+    <string name="count_text">0</string>
+    <string name="ten_cents_text">$0.10</string>
+    <string name="five_cents_text">$0.05</string>
+    <string name="twenty_five_cents_text">$0.25</string>
+    <string name="one_dollar_text">$1.00</string>
+</resources>
